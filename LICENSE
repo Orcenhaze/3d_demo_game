@@ -1,0 +1,17 @@
+3d_demo_game - Public Domain License
+=========================================
+
+This project is dedicated to the public domain. You are free to use, modify, and distribute this code without any restrictions.
+
+Third-Party Dependencies
+------------------------
+
+This project includes the following third-party dependencies, each governed by its own license:
+
+1. **stb_image.h**
+   https://github.com/nothings/stb/blob/master/LICENSE
+
+2. **mini_audio.h**
+   https://github.com/mackron/miniaudio/blob/master/LICENSE
+
+Please review the license terms of each dependency before using or contributing to this project.
